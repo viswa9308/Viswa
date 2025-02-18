@@ -1,7 +1,7 @@
 async function loadModel() {
     try {
         // Replace 'your-username' and 'your-repository-name' with your actual GitHub details
-        const modelUrl = 'https://raw.githubusercontent.com/viswa9308/viswa/main/model/model.json';
+        const modelUrl = 'https://raw.githubusercontent.com/viswa9308/Viswa/refs/heads/main/model.json';
 
         console.log("Loading model from:", modelUrl);
         
